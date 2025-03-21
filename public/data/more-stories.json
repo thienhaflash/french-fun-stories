@@ -1,0 +1,65 @@
+
+[
+  {
+    "id": 8,
+    "title": "La Visite au Musée",
+    "titleTranslation": "The Visit to the Museum",
+    "description": "Follow Thomas as he explores a famous art museum in Paris.",
+    "level": "intermediate",
+    "image": "https://images.unsplash.com/photo-1545330785-15356daae141",
+    "audioFile": "/stories/story8/audio.mp3",
+    "estimatedTime": 5,
+    "vocabulary": [
+      { "word": "musée", "translation": "museum", "pronunciation": "moo-zay" },
+      { "word": "tableau", "translation": "painting", "pronunciation": "tab-lo" },
+      { "word": "artiste", "translation": "artist", "pronunciation": "ar-teest" },
+      { "word": "exposition", "translation": "exhibition", "pronunciation": "ex-po-zee-see-on" },
+      { "word": "sculpture", "translation": "sculpture", "pronunciation": "skool-tour" }
+    ],
+    "content": [
+      { "id": 1, "text": "Thomas visite le musée du Louvre à Paris.", "translation": "Thomas is visiting the Louvre Museum in Paris.", "audio": { "startTime": 0, "endTime": 5 } },
+      { "id": 2, "text": "Le musée est immense et magnifique.", "translation": "The museum is immense and magnificent.", "audio": { "startTime": 5, "endTime": 9 } },
+      { "id": 3, "text": "Il y a des milliers d'œuvres d'art.", "translation": "There are thousands of works of art.", "audio": { "startTime": 9, "endTime": 13 } },
+      { "id": 4, "text": "Thomas veut voir la Joconde en premier.", "translation": "Thomas wants to see the Mona Lisa first.", "audio": { "startTime": 13, "endTime": 18 } },
+      { "id": 5, "text": "Il y a beaucoup de monde devant le tableau.", "translation": "There are many people in front of the painting.", "audio": { "startTime": 18, "endTime": 23 } },
+      { "id": 6, "text": "La Joconde est plus petite qu'il ne pensait.", "translation": "The Mona Lisa is smaller than he thought.", "audio": { "startTime": 23, "endTime": 28 } },
+      { "id": 7, "text": "Après, il va voir les sculptures égyptiennes.", "translation": "After, he goes to see the Egyptian sculptures.", "audio": { "startTime": 28, "endTime": 33 } },
+      { "id": 8, "text": "Thomas prend beaucoup de photos.", "translation": "Thomas takes many photos.", "audio": { "startTime": 33, "endTime": 37 } },
+      { "id": 9, "text": "Il achète un livre sur l'art français.", "translation": "He buys a book about French art.", "audio": { "startTime": 37, "endTime": 41 } },
+      { "id": 10, "text": "À midi, il mange au café du musée.", "translation": "At noon, he eats at the museum café.", "audio": { "startTime": 41, "endTime": 45 } },
+      { "id": 11, "text": "Il passe toute la journée au musée.", "translation": "He spends the whole day at the museum.", "audio": { "startTime": 45, "endTime": 49 } },
+      { "id": 12, "text": "Thomas adore l'art et la culture française.", "translation": "Thomas loves French art and culture.", "audio": { "startTime": 49, "endTime": 54 } }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Une Journée à la Plage",
+    "titleTranslation": "A Day at the Beach",
+    "description": "Enjoy a summer day at a beautiful French beach with the Martin family.",
+    "level": "intermediate",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "audioFile": "/stories/story9/audio.mp3",
+    "estimatedTime": 5,
+    "vocabulary": [
+      { "word": "plage", "translation": "beach", "pronunciation": "plahj" },
+      { "word": "sable", "translation": "sand", "pronunciation": "sab-luh" },
+      { "word": "vagues", "translation": "waves", "pronunciation": "vag" },
+      { "word": "nager", "translation": "to swim", "pronunciation": "na-jhay" },
+      { "word": "parasol", "translation": "beach umbrella", "pronunciation": "para-sol" }
+    ],
+    "content": [
+      { "id": 1, "text": "La famille Martin va à la plage aujourd'hui.", "translation": "The Martin family is going to the beach today.", "audio": { "startTime": 0, "endTime": 5 } },
+      { "id": 2, "text": "C'est une journée chaude et ensoleillée.", "translation": "It's a hot and sunny day.", "audio": { "startTime": 5, "endTime": 9 } },
+      { "id": 3, "text": "Ils installent leur parasol dans le sable.", "translation": "They set up their beach umbrella in the sand.", "audio": { "startTime": 9, "endTime": 14 } },
+      { "id": 4, "text": "Les enfants courent vers la mer.", "translation": "The children run towards the sea.", "audio": { "startTime": 14, "endTime": 18 } },
+      { "id": 5, "text": "L'eau est froide mais agréable.", "translation": "The water is cold but pleasant.", "audio": { "startTime": 18, "endTime": 22 } },
+      { "id": 6, "text": "Madame Martin lit un livre sous le parasol.", "translation": "Mrs. Martin reads a book under the umbrella.", "audio": { "startTime": 22, "endTime": 27 } },
+      { "id": 7, "text": "Monsieur Martin nage loin dans la mer.", "translation": "Mr. Martin swims far into the sea.", "audio": { "startTime": 27, "endTime": 32 } },
+      { "id": 8, "text": "Les enfants construisent un château de sable.", "translation": "The children build a sandcastle.", "audio": { "startTime": 32, "endTime": 37 } },
+      { "id": 9, "text": "À midi, ils mangent des sandwichs et des fruits.", "translation": "At noon, they eat sandwiches and fruit.", "audio": { "startTime": 37, "endTime": 42 } },
+      { "id": 10, "text": "Après le déjeuner, ils se reposent un peu.", "translation": "After lunch, they rest a little.", "audio": { "startTime": 42, "endTime": 47 } },
+      { "id": 11, "text": "Dans l'après-midi, ils jouent au volleyball.", "translation": "In the afternoon, they play volleyball.", "audio": { "startTime": 47, "endTime": 52 } },
+      { "id": 12, "text": "Ils rentrent à la maison fatigués mais heureux.", "translation": "They return home tired but happy.", "audio": { "startTime": 52, "endTime": 57 } }
+    ]
+  }
+]
